@@ -1,6 +1,6 @@
 # stock_webscrap_data
 
-The dataset in this repository is created from my webscrap bot that extracted info from various stock websites for over a year almost every week.
+The dataset in this repository is created from my webscrap bot that extracted info from various stock websites for **almost** every week for a year.
 
 These websites include:
 
